@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyNewsApp</string>
+    <string name="default_news_title">default news tittle</string>
+    <string name="default_news_description">default news description</string>
+    <string name="default_date">19 November 2022</string>
+    <string name="error">Error fetching data</string>
+</resources>
